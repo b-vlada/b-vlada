@@ -17,24 +17,9 @@
 
 ---
 
-### 🛠 Мой стек и инструменты:
-
-`Figma` `Adobe Photoshop` `Adobe Illustrator` `HTML` `CSS`
-
----
 
 ### 📫 Как со мной связаться:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник)
-[![VK](https://img.shields.io/badge/ВКонтакте-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/твой_ник)
-[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/твой_ник)
 
----
+[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/vladislavamoon)
 
-### 💙 Статистика на GitHub:
-
-<!-- Это место для твоей будущей статистики, пока можешь оставить пустым -->
-
-<p align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-</p>
